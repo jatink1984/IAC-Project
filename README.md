@@ -1,4 +1,4 @@
-### IAC-Project 
+### Deploy a highly available web application using cloud formation
 This project deploys web servers for a highly available web app using CloudFormation. The script begins deploying the networking components followed by servers, security roles and software.
 
 To deploy the infrastructure run the create.bat file with parameters stack name, resource file name and parameters json file
