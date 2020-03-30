@@ -2,24 +2,24 @@
 
 ## Output Variables
 
-!(output-variables.PNG)
+![one](output-variables.PNG)
 
 ## Parameters
 
-!(parameters.PNG)
+![two](parameters.PNG)
 
 ## Resources
 
-!(Resources.PNG)
+![three](Resources.PNG)
 
 ## Stack-id
 
-!(Stack-id.PNG)
+![four](Stack-id.PNG)
 
 ## Targetgroup
 
-!(targetgroup.PNG)
+![five](targetgroup.PNG)
 
 ## Website deployed & running on EC2 ASG
 
-!(Udagram.PNG)
+![six](Udagram.PNG)
